@@ -22,4 +22,4 @@ _pigeon.EnterCalibrationMode(CalibrationMode.Temperature)
 // Enable/Disable Temperature Compensation
 
 _pigeon.EnableTemperatureCompensation(false);
-_pigeon.EnableTemperatureCOmpensttion(true);
+_pigeon.EnableTemperatureCompensation(true);
